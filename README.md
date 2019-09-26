@@ -5,7 +5,7 @@ This repository contains the files needed to create an AI assistant with open so
 ## Requirements
 
 You should be able to follow this exercise on any OS with **Python 3** installed. If you encounter any
-issues when setting up your environments, send an email to juste@rasa.com or raise an issue on this
+issues when setting up your environments, send an email to t.dunn@rasa.com or raise an issue on this
 repository.
 
 ## Installation
@@ -27,6 +27,4 @@ Learn more about Rasa, Rasa X and Rasa community:
 
 
 ## Get in touch
-If you have questions about this repository or Rasa software in general, send questions to Justina at juste@rasa.com
-
-
+If you have questions about this repository or Rasa software in general, send questions to Ty at t.dunn@rasa.com
