@@ -28,3 +28,7 @@ Learn more about Rasa, Rasa X and Rasa community:
 
 ## Get in touch
 If you have questions about this repository or Rasa software in general, send questions to Ty at t.dunn@rasa.com
+
+## License
+Licensed under the Apache License, Version 2.0.
+Copyright 2019 Rasa Technologies GmbH. [Copy of the license](LICENSE.txt).
